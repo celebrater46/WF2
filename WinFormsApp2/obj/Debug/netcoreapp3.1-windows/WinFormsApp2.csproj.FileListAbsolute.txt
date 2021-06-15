@@ -1,0 +1,13 @@
+C:\Users\Enin\RiderProjects\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1-windows\WinFormsApp2.csprojAssemblyReference.cache
+C:\Users\Enin\RiderProjects\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\Enin\RiderProjects\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\Enin\RiderProjects\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Enin\RiderProjects\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1-windows\WinFormsApp2.exe
+C:\Users\Enin\RiderProjects\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1-windows\WinFormsApp2.deps.json
+C:\Users\Enin\RiderProjects\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\Enin\RiderProjects\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1-windows\WinFormsApp2.runtimeconfig.dev.json
+C:\Users\Enin\RiderProjects\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1-windows\WinFormsApp2.dll
+C:\Users\Enin\RiderProjects\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1-windows\WinFormsApp2.pdb
+C:\Users\Enin\RiderProjects\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1-windows\WinFormsApp2.dll
+C:\Users\Enin\RiderProjects\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1-windows\WinFormsApp2.pdb
+C:\Users\Enin\RiderProjects\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1-windows\WinFormsApp2.genruntimeconfig.cache
